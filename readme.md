@@ -5,11 +5,11 @@
 
 ## Contents
 
-- [AI/ML activities](#AI/ML Activities)
-- [Cybersecurity Resources](#Cybersecurity Resources)
+- [AI/ML activities](#ai-activities)
+- [Cybersecurity Resources](#cybersecurity-resources)
 
 
-## AI/ML Activities
+## AI Activities
 
 About this section. Optional. Keep this short and focus on the list.
 
