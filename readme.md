@@ -20,6 +20,7 @@ About this section. Optional. Keep this short and focus on the list.
 ## Cybersecurity Resources
 
 - [Autograded NetsBlox Exercises](https://netsblox.github.io/exercises?q=cryptography)
+- [Spot the Troll](https://spotthetroll.org/)
 
 
 ## Contribute
