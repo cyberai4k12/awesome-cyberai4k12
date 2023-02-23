@@ -22,6 +22,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Autograded NetsBlox Exercises](https://netsblox.github.io/exercises?q=cryptography)
 - [Spot the Troll](https://spotthetroll.org/)
 - [Nova Cybersecurity Lab](https://www.pbs.org/wgbh/nova/labs/lab/cyber/)
+- [CyberChef (Encryption via Recipes in the Browser)](https://gchq.github.io/CyberChef/)
 
 
 ## Contribute
