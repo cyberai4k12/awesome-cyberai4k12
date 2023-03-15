@@ -20,6 +20,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [MIT K-12 AI Portal](https://raise.mit.edu/resources.html)
 - [AI for K12](https://ai4k12.org/)
 - [Imitation Learning in NetsBlox](https://editor.netsblox.org/?action=present&Username=brian&ProjectName=Imitation%20Learning%20-%20Learn%20to%20Catch&)
+- [Generation: Dall-E 2](https://openai.com/product/dall-e-2)
+- [ChatGPT](https://openai.com/blog/chatgpt)
 
 ## Cybersecurity Resources
 
@@ -35,6 +37,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Brief History of Cyber Crime](https://www.youtube.com/watch?v=V6p7lFsokXo)
 - [5 Tips of Cybersecurity](https://www.youtube.com/watch?v=ZOtQ21hXJ7k)
 - [How to spot fake social media accounts](https://www.dw.com/en/fact-check-how-do-i-spot-fake-social-media-accounts-bots-and-trolls/a-60313035)
+- [An 8 character password can be cracked in less than 1 hour](https://www.techrepublic.com/article/how-an-8-character-password-could-be-cracked-in-less-than-an-hour/)
 
 ### Real-world Hooks
 - [Phishing (Nigerian Prince Scams)](https://www.cnbc.com/2019/04/18/nigerian-prince-scams-still-rake-in-over-700000-dollars-a-year.html)
